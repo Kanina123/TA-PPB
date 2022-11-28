@@ -1,0 +1,90 @@
+.containerProductDetails{
+    background-color: white;
+    width: 80vw;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 10%;
+    z-index:-1;
+}
+
+.about{
+    margin: 0 auto;
+}
+
+#abouttext{
+    color: black;
+    font-weight: bold;
+    font-size: 5vw;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ProductImage{
+}
+
+.GambarProduk{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.ProductPrice{
+    background-color: salmon;
+    width: fit-content;
+    padding: 0px 10px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+#HargaProduk{
+    color: black;
+    font-size: 4vw;
+    text-align: center;
+}
+
+.description{
+}
+
+#descriptiontext{
+    color: black;
+    font-weight: bold;
+    font-size: 4vw;
+    text-align: center;
+}
+
+.Productdescription{
+}
+
+#DeskripsiProduk{
+    color: black;
+    font-size: 3.5vw;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.storelink{}
+
+#storelinktext{
+    color: black;
+    font-weight: bold;
+    font-size: 4vw;
+    text-align: center;
+}
+
+.ProductLink{
+    padding-bottom: 10px;
+}
+
+#LinkProduk{
+    color: red;
+    font-size: 3vw;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20 px;
+}

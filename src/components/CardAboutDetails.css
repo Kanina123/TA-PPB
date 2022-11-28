@@ -1,0 +1,47 @@
+.containerAboutDetails{
+    background-color: white;
+    width:75vw;
+}
+
+.namaPanjang{
+    background-color: black;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+#namaLengkap{
+    color: white;
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.angkaNim{
+    background-color: rgb(43, 43, 43);
+    width: fit-content;
+    margin:0 auto
+}
+
+#nim{
+    color: white;
+    font-family: Segoe UI;
+    font-style: italic;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
+#github{
+    color: black;
+    font-family: Segoe UI;
+    font-style: italic;
+    text-align: center;
+}

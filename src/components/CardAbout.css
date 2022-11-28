@@ -1,0 +1,32 @@
+.containerAbout{
+    background-color: white;
+    width: fit-content;
+    /* width: 700px;
+    height: 240px; */
+}
+
+.pfp{
+    height: 52vw;
+    /* float: left;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; */
+}
+
+#nama{
+    color: black;
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 4vh;
+    text-align: center;
+}
+
+#job{
+    color: black;
+    font-family: Segoe UI;
+    font-style: italic;
+    font-size: 3.2vh;
+    text-align: center;
+}
